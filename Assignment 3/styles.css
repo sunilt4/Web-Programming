@@ -1,0 +1,43 @@
+h1 {
+    color: white;
+}
+
+body {
+    background-image: url("../assignment3/beach.jpg");
+    
+}
+.background {
+    background-color: #DDDDDD;
+}
+
+p.message {
+    color:red;
+    font-weight:bold;
+    font-size:120%;
+}
+
+table.formTable {
+    background-color:#00b2ff;
+    width:50%;
+    min-width:500px; 
+    border:0px solid black;
+}
+
+td.labelColumn{
+    width:30%;
+    font-weight:bold;
+    font-color:black;   
+}
+
+.submitButton {
+    font-size:105%;
+    font-weight:bold;
+    color:black;
+}
+
+.mainDiv {
+    width:50%;
+    min-width:500px;
+}
+
+
