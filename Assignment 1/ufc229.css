@@ -1,0 +1,108 @@
+body {
+	font: 15px/1.5 Times New Roman, Helvetica,sans-serif;
+	margin: 0;
+
+	background: url("images/background1.jpg");
+	color: white;
+}
+
+
+
+header {	
+	background: #d1cfcf;
+	color: white;
+	padding: 15px 15px 15px 15px;
+}
+
+header h1 {
+	text-align: center;
+}
+
+
+
+#nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	margin: auto;
+	text-align: center;
+}
+
+
+#nav ul li {
+	display: inline-block;
+	padding: 5px 15px;
+
+}
+
+#nav ul li a {
+	color: black;
+	text-decoration: none;
+
+}
+
+#nav ul li a:hover {
+	color: #ff0000;
+}
+
+
+header .highlight1 {
+	color: #007cff;
+	font-weight: bold;
+}
+
+
+header .highlight2 {
+  color:#ff5100;
+
+}
+
+
+#promo img {
+	position: relative;
+	top: 50px;
+}
+
+#promo {
+	color: white;
+	font-size: 17pt;
+}
+
+
+#khabib p {
+	width: 260pt;
+	position: absolute;
+	left: 8pt;
+	bottom: 300pt;
+}
+
+#conor p {
+	width: 260pt;
+	position: absolute;
+	left: 1150pt;
+	bottom: 328pt;
+}
+
+#question h2 {
+	position: relative;
+	top: 40pt;
+	text-align: center;
+	color: black;
+
+}
+
+#predictions {
+	text-align: center;
+	color: black;
+	font-size: 16pt;
+	margin: 20pt;
+	padding: 20pt;
+}
+
+
+footer {
+	text-align: center;
+	color: black;;
+	font-size: 15px;
+	
+}
