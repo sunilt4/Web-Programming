@@ -1,2 +1,2 @@
 # WebProgramming
-Web Programming projects created
+Web Programming (SOFE-2800U) Assignments 1-3 
