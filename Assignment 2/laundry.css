@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: black;
+    font-size: 27px;
+}
+
+h2 {
+    color: brown;
+    font-size: 27px;
+}
+
+h3 {
+ 
+    font-size: 25px;
+    text-decoration:underline;
+}
+
+label {
+    font-size:17px;
+}
+table {
+    margin-right:2em;
+}
+
+
+legend {
+    font-weight:bold;
+}
+
+fieldset {
+    width:45%;
+    float:left;
+}
+
+.hiddenlabel {
+    display:none;
+}
+
